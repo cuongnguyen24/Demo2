@@ -29,6 +29,6 @@ public class Vidu {
 		int x= new Integer(32);
 		System.out.println("x = "+x);
 		
-		System.out.println("Dev 1 hâhahaha");
+		System.out.println("Dev 2");
 	}
 }
