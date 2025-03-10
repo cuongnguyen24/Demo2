@@ -33,5 +33,7 @@ public class Vidu {
 		System.out.println("Đây là code Linh thêm done");
 		System.out.println("Đây là code Linh thêm done");
 		System.out.println("Đây là code Linh thêm done");
+		
+		System.out.println("Đây là code Cường thêm done");
 	}
 }
