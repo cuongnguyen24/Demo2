@@ -30,5 +30,8 @@ public class Vidu {
 		System.out.println("x = "+x);
 		
 		System.out.println("Đây là code Linh thêm done");
+		System.out.println("Đây là code Linh thêm done");
+		System.out.println("Đây là code Linh thêm done");
+		System.out.println("Đây là code Linh thêm done");
 	}
 }
