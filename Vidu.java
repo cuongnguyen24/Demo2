@@ -29,6 +29,6 @@ public class Vidu {
 		int x= new Integer(32);
 		System.out.println("x = "+x);
 		
-		
+		System.out.println("Đây là code Cường thêm");
 	}
 }
